@@ -1,0 +1,501 @@
+complaint_id,citizen_name,category,department,description,area,priority,status,submitted_date,resolved_date,resolution_days
+GRV-2026-0001,Arjun Malhotra,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 07 - Industrial,High,Pending,2026-06-25,,
+GRV-2026-0002,Arjun Malhotra,Roads & Infrastructure,Public Works Department,Road surface is damaged near the residential market,Ward 07 - Industrial,High,Pending,2026-09-26,,
+GRV-2026-0003,Ishaan Kapoor,Sanitation,Sanitation Department,Blocked public drain is causing waterlogging,Ward 05 - West,Low,Resolved,2026-01-15,2026-01-21,6
+GRV-2026-0004,Ananya Rao,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 01 - Central,Low,Pending,2026-05-24,,
+GRV-2026-0005,Sara Khan,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 02 - North,High,Resolved,2026-05-03,2026-05-15,12
+GRV-2026-0006,Kabir Mehta,Roads & Infrastructure,Public Works Department,Drain cover is missing near the road intersection,Ward 06 - Market,High,Resolved,2026-06-17,2026-06-30,13
+GRV-2026-0007,Sara Khan,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 04 - East,High,Resolved,2026-05-15,2026-05-18,3
+GRV-2026-0008,Arjun Malhotra,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 06 - Market,High,Rejected,2026-05-02,,
+GRV-2026-0009,Sara Khan,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 04 - East,Low,In Progress,2026-10-27,,
+GRV-2025-0010,Arjun Malhotra,Street Lighting,Municipal Corporation,Dark public road creates safety concerns at night,Ward 07 - Industrial,Low,Pending,2025-12-17,,
+GRV-2026-0011,Aarav Sharma,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 03 - South,Low,In Progress,2026-07-23,,
+GRV-2026-0012,Meera Joshi,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 01 - Central,High,In Progress,2026-01-11,,
+GRV-2025-0013,Meera Joshi,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 05 - West,Medium,Pending,2025-12-19,,
+GRV-2025-0014,Rohan Gupta,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 03 - South,Medium,Resolved,2025-12-27,2026-01-03,7
+GRV-2026-0015,Kabir Mehta,Roads & Infrastructure,Municipal Corporation,Road surface is damaged near the residential market,Ward 01 - Central,Medium,Pending,2026-03-07,,
+GRV-2026-0016,Arjun Malhotra,Sanitation,Municipal Corporation,Overflowing dustbins are creating an unhygienic environment,Ward 03 - South,Low,In Progress,2026-09-29,,
+GRV-2026-0017,Arjun Malhotra,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 05 - West,Medium,Resolved,2026-06-29,2026-07-06,7
+GRV-2026-0018,Aanya Verma,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 01 - Central,Medium,In Progress,2026-04-01,,
+GRV-2026-0019,Aarav Sharma,Sanitation,Municipal Corporation,Blocked public drain is causing waterlogging,Ward 02 - North,Low,Resolved,2026-11-09,2026-11-12,3
+GRV-2025-0020,Sara Khan,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 04 - East,Low,Pending,2025-12-04,,
+GRV-2026-0021,Ishaan Kapoor,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 08 - Residential,Medium,Pending,2026-08-07,,
+GRV-2026-0022,Priya Singh,Roads & Infrastructure,Public Works Department,Road surface is damaged near the residential market,Ward 04 - East,High,Resolved,2026-10-11,2026-10-15,4
+GRV-2026-0023,Aanya Verma,Street Lighting,Electricity Department,Street light pole is leaning and appears unsafe,Ward 02 - North,Medium,Pending,2026-04-10,,
+GRV-2026-0024,Priya Singh,Roads & Infrastructure,Public Works Department,Drain cover is missing near the road intersection,Ward 01 - Central,Medium,Pending,2026-09-26,,
+GRV-2026-0025,Meera Joshi,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 07 - Industrial,High,Pending,2026-11-10,,
+GRV-2026-0026,Arjun Malhotra,Street Lighting,Electricity Department,Street lights are not working in the residential lane,Ward 06 - Market,Low,Pending,2026-08-07,,
+GRV-2026-0027,Rohan Gupta,Roads & Infrastructure,Public Works Department,Large pothole on the main road causing traffic and accidents,Ward 02 - North,High,In Progress,2026-01-16,,
+GRV-2026-0028,Sara Khan,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 01 - Central,Medium,Resolved,2026-01-12,2026-01-16,4
+GRV-2025-0029,Priya Singh,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 04 - East,Medium,Resolved,2025-12-10,2025-12-19,9
+GRV-2026-0030,Aarav Sharma,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 02 - North,Medium,Resolved,2026-09-05,2026-09-08,3
+GRV-2026-0031,Aanya Verma,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 06 - Market,Medium,Pending,2026-02-26,,
+GRV-2026-0032,Aarav Sharma,Public Safety,Public Safety Department,Broken traffic signal is creating unsafe road conditions,Ward 02 - North,High,Resolved,2026-04-01,2026-04-18,17
+GRV-2026-0033,Sara Khan,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 06 - Market,Low,Resolved,2026-09-14,2026-09-24,10
+GRV-2026-0034,Aarav Sharma,Sanitation,Sanitation Department,Garbage has not been collected for several days,Ward 07 - Industrial,Critical,Pending,2026-02-26,,
+GRV-2026-0035,Rohan Gupta,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 07 - Industrial,High,Resolved,2026-11-11,2026-11-20,9
+GRV-2026-0036,Sara Khan,Roads & Infrastructure,Public Works Department,Road surface is damaged near the residential market,Ward 07 - Industrial,Medium,Resolved,2026-10-04,2026-10-16,12
+GRV-2026-0037,Ananya Rao,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 04 - East,High,Resolved,2026-06-08,2026-06-10,2
+GRV-2026-0038,Priya Singh,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 03 - South,High,Rejected,2026-01-29,,
+GRV-2026-0039,Priya Singh,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 03 - South,High,Resolved,2026-08-12,2026-08-26,14
+GRV-2026-0040,Meera Joshi,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 05 - West,High,Pending,2026-10-23,,
+GRV-2026-0041,Aanya Verma,Sanitation,Municipal Corporation,Blocked public drain is causing waterlogging,Ward 06 - Market,Medium,Pending,2026-10-30,,
+GRV-2026-0042,Aarav Sharma,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 07 - Industrial,Medium,Resolved,2026-10-29,2026-11-07,9
+GRV-2026-0043,Sara Khan,Healthcare,Health Department,Long waiting time at the public health facility,Ward 05 - West,Low,Rejected,2026-04-02,,
+GRV-2026-0044,Ananya Rao,Roads & Infrastructure,Municipal Corporation,Drain cover is missing near the road intersection,Ward 02 - North,Medium,Resolved,2026-11-11,2026-11-18,7
+GRV-2025-0045,Ishaan Kapoor,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 07 - Industrial,Medium,Resolved,2025-12-08,2025-12-18,10
+GRV-2026-0046,Sara Khan,Public Safety,Public Safety Department,Broken traffic signal is creating unsafe road conditions,Ward 07 - Industrial,Medium,Resolved,2026-08-05,2026-08-11,6
+GRV-2026-0047,Ananya Rao,Roads & Infrastructure,Municipal Corporation,Drain cover is missing near the road intersection,Ward 08 - Residential,High,In Progress,2026-06-19,,
+GRV-2026-0048,Aanya Verma,Street Lighting,Electricity Department,Dark public road creates safety concerns at night,Ward 06 - Market,Critical,Resolved,2026-02-23,2026-03-01,6
+GRV-2025-0049,Aarav Sharma,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 04 - East,Medium,Pending,2025-12-03,,
+GRV-2026-0050,Meera Joshi,Street Lighting,Electricity Department,Street light pole is leaning and appears unsafe,Ward 04 - East,High,Resolved,2026-03-23,2026-04-05,13
+GRV-2026-0051,Arjun Malhotra,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 01 - Central,High,Pending,2026-09-18,,
+GRV-2026-0052,Sara Khan,Sanitation,Municipal Corporation,Blocked public drain is causing waterlogging,Ward 08 - Residential,High,Resolved,2026-03-24,2026-04-11,18
+GRV-2026-0053,Kabir Mehta,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 04 - East,Medium,Resolved,2026-08-22,2026-08-30,8
+GRV-2026-0054,Ananya Rao,Public Safety,Police Department,Street harassment reported near the bus stop,Ward 03 - South,Medium,In Progress,2026-10-03,,
+GRV-2026-0055,Ishaan Kapoor,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 06 - Market,Medium,Pending,2026-04-29,,
+GRV-2026-0056,Sara Khan,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 08 - Residential,Medium,Resolved,2026-10-12,2026-10-13,1
+GRV-2026-0057,Arjun Malhotra,Roads & Infrastructure,Municipal Corporation,Road surface is damaged near the residential market,Ward 08 - Residential,Critical,Resolved,2026-06-12,2026-06-26,14
+GRV-2026-0058,Ishaan Kapoor,Sanitation,Sanitation Department,Overflowing dustbins are creating an unhygienic environment,Ward 08 - Residential,Medium,Pending,2026-04-02,,
+GRV-2026-0059,Rohan Gupta,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 03 - South,Low,Resolved,2026-04-24,2026-05-08,14
+GRV-2026-0060,Ishaan Kapoor,Roads & Infrastructure,Municipal Corporation,Footpath is broken and difficult for pedestrians to use,Ward 07 - Industrial,Medium,Pending,2026-05-02,,
+GRV-2026-0061,Priya Singh,Public Safety,Public Safety Department,Street harassment reported near the bus stop,Ward 01 - Central,Low,Resolved,2026-03-17,2026-03-29,12
+GRV-2026-0062,Aanya Verma,Roads & Infrastructure,Public Works Department,Road surface is damaged near the residential market,Ward 08 - Residential,Medium,Resolved,2026-08-02,2026-08-18,16
+GRV-2026-0063,Rohan Gupta,Public Safety,Police Department,Broken traffic signal is creating unsafe road conditions,Ward 02 - North,High,Resolved,2026-08-18,2026-08-22,4
+GRV-2026-0064,Aanya Verma,Roads & Infrastructure,Municipal Corporation,Road surface is damaged near the residential market,Ward 02 - North,Medium,Resolved,2026-01-21,2026-01-28,7
+GRV-2026-0065,Ananya Rao,Public Safety,Public Safety Department,Street harassment reported near the bus stop,Ward 06 - Market,Medium,In Progress,2026-01-27,,
+GRV-2026-0066,Meera Joshi,Roads & Infrastructure,Municipal Corporation,Road surface is damaged near the residential market,Ward 07 - Industrial,Medium,In Progress,2026-03-07,,
+GRV-2025-0067,Ananya Rao,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 02 - North,Medium,Resolved,2025-12-31,2026-01-09,9
+GRV-2026-0068,Aarav Sharma,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 06 - Market,High,Resolved,2026-07-10,2026-07-21,11
+GRV-2026-0069,Arjun Malhotra,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 04 - East,Medium,Resolved,2026-07-27,2026-08-05,9
+GRV-2026-0070,Meera Joshi,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 01 - Central,Medium,Resolved,2026-04-17,2026-05-03,16
+GRV-2026-0071,Meera Joshi,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 07 - Industrial,Medium,Resolved,2026-07-21,2026-08-02,12
+GRV-2025-0072,Aanya Verma,Healthcare,Health Department,Long waiting time at the public health facility,Ward 06 - Market,Medium,Pending,2025-11-17,,
+GRV-2026-0073,Sara Khan,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 02 - North,Medium,Resolved,2026-08-06,2026-08-23,17
+GRV-2026-0074,Arjun Malhotra,Sanitation,Sanitation Department,Overflowing dustbins are creating an unhygienic environment,Ward 05 - West,Low,Pending,2026-07-19,,
+GRV-2026-0075,Aanya Verma,Roads & Infrastructure,Public Works Department,Large pothole on the main road causing traffic and accidents,Ward 05 - West,Low,Resolved,2026-02-02,2026-02-18,16
+GRV-2026-0076,Meera Joshi,Street Lighting,Municipal Corporation,Street lights are not working in the residential lane,Ward 02 - North,Low,Pending,2026-04-01,,
+GRV-2026-0077,Sara Khan,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 02 - North,Low,Resolved,2026-10-05,2026-10-10,5
+GRV-2026-0078,Arjun Malhotra,Sanitation,Municipal Corporation,Dead animal has not been removed from the public area,Ward 08 - Residential,High,Resolved,2026-01-30,2026-02-07,8
+GRV-2026-0079,Sara Khan,Street Lighting,Municipal Corporation,Street lights are not working in the residential lane,Ward 04 - East,High,In Progress,2026-01-14,,
+GRV-2025-0080,Aanya Verma,Sanitation,Sanitation Department,Overflowing dustbins are creating an unhygienic environment,Ward 01 - Central,Low,Pending,2025-12-09,,
+GRV-2025-0081,Kabir Mehta,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 08 - Residential,Low,In Progress,2025-11-24,,
+GRV-2026-0082,Ishaan Kapoor,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 04 - East,High,Resolved,2026-06-29,2026-07-06,7
+GRV-2026-0083,Sara Khan,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 08 - Residential,High,Pending,2026-09-01,,
+GRV-2025-0084,Arjun Malhotra,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 08 - Residential,Critical,Resolved,2025-11-25,2025-12-12,17
+GRV-2026-0085,Aanya Verma,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 01 - Central,Medium,In Progress,2026-04-04,,
+GRV-2026-0086,Kabir Mehta,Public Safety,Public Safety Department,Open manhole creates a serious risk for pedestrians,Ward 07 - Industrial,Medium,In Progress,2026-08-14,,
+GRV-2026-0087,Aanya Verma,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 06 - Market,Medium,In Progress,2026-03-17,,
+GRV-2026-0088,Arjun Malhotra,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 08 - Residential,High,Rejected,2026-06-17,,
+GRV-2026-0089,Arjun Malhotra,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 08 - Residential,High,Pending,2026-07-06,,
+GRV-2026-0090,Meera Joshi,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 04 - East,High,In Progress,2026-08-07,,
+GRV-2026-0091,Sara Khan,Public Safety,Public Safety Department,Open manhole creates a serious risk for pedestrians,Ward 03 - South,Medium,Resolved,2026-06-17,2026-06-18,1
+GRV-2026-0092,Aanya Verma,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 02 - North,Critical,Pending,2026-02-02,,
+GRV-2026-0093,Meera Joshi,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 08 - Residential,Medium,Resolved,2026-06-15,2026-07-01,16
+GRV-2026-0094,Aanya Verma,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 07 - Industrial,High,In Progress,2026-08-06,,
+GRV-2026-0095,Rohan Gupta,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 08 - Residential,High,Resolved,2026-11-11,2026-11-27,16
+GRV-2026-0096,Priya Singh,Healthcare,Health Department,Long waiting time at the public health facility,Ward 07 - Industrial,Critical,In Progress,2026-02-02,,
+GRV-2026-0097,Ishaan Kapoor,Sanitation,Sanitation Department,Overflowing dustbins are creating an unhygienic environment,Ward 08 - Residential,High,Resolved,2026-10-21,2026-11-03,13
+GRV-2026-0098,Meera Joshi,Roads & Infrastructure,Public Works Department,Large pothole on the main road causing traffic and accidents,Ward 08 - Residential,Low,In Progress,2026-02-27,,
+GRV-2026-0099,Kabir Mehta,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 07 - Industrial,Low,Rejected,2026-04-16,,
+GRV-2025-0100,Meera Joshi,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 02 - North,Medium,In Progress,2025-12-01,,
+GRV-2026-0101,Aanya Verma,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 03 - South,Critical,Pending,2026-07-18,,
+GRV-2026-0102,Ishaan Kapoor,Public Safety,Public Safety Department,Open manhole creates a serious risk for pedestrians,Ward 04 - East,Medium,Resolved,2026-10-20,2026-11-01,12
+GRV-2026-0103,Sara Khan,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 08 - Residential,High,Pending,2026-08-17,,
+GRV-2026-0104,Aarav Sharma,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 05 - West,Medium,Pending,2026-03-20,,
+GRV-2026-0105,Ishaan Kapoor,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 08 - Residential,Medium,Rejected,2026-03-31,,
+GRV-2026-0106,Ananya Rao,Public Safety,Public Safety Department,Broken traffic signal is creating unsafe road conditions,Ward 05 - West,Medium,Pending,2026-04-29,,
+GRV-2026-0107,Sara Khan,Roads & Infrastructure,Municipal Corporation,Drain cover is missing near the road intersection,Ward 05 - West,High,Resolved,2026-06-25,2026-06-27,2
+GRV-2026-0108,Rohan Gupta,Sanitation,Sanitation Department,Garbage has not been collected for several days,Ward 01 - Central,Medium,Pending,2026-07-22,,
+GRV-2026-0109,Kabir Mehta,Public Safety,Police Department,Broken traffic signal is creating unsafe road conditions,Ward 07 - Industrial,Low,In Progress,2026-10-25,,
+GRV-2026-0110,Kabir Mehta,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 05 - West,Medium,Resolved,2026-09-05,2026-09-22,17
+GRV-2026-0111,Priya Singh,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 06 - Market,Low,In Progress,2026-05-23,,
+GRV-2026-0112,Sara Khan,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 06 - Market,Medium,Resolved,2026-11-05,2026-11-14,9
+GRV-2026-0113,Sara Khan,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 02 - North,Critical,Resolved,2026-03-16,2026-03-27,11
+GRV-2025-0114,Aarav Sharma,Street Lighting,Municipal Corporation,Dark public road creates safety concerns at night,Ward 08 - Residential,Low,Pending,2025-12-14,,
+GRV-2026-0115,Arjun Malhotra,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 03 - South,Medium,Pending,2026-07-14,,
+GRV-2026-0116,Aarav Sharma,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 04 - East,Critical,In Progress,2026-03-06,,
+GRV-2026-0117,Arjun Malhotra,Street Lighting,Municipal Corporation,Dark public road creates safety concerns at night,Ward 01 - Central,High,Pending,2026-07-15,,
+GRV-2026-0118,Aanya Verma,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 01 - Central,High,Rejected,2026-08-07,,
+GRV-2026-0119,Priya Singh,Roads & Infrastructure,Municipal Corporation,Road surface is damaged near the residential market,Ward 04 - East,Medium,Resolved,2026-07-11,2026-07-29,18
+GRV-2026-0120,Rohan Gupta,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 03 - South,Critical,Pending,2026-01-11,,
+GRV-2026-0121,Sara Khan,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 01 - Central,High,In Progress,2026-09-06,,
+GRV-2026-0122,Meera Joshi,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 06 - Market,Medium,Resolved,2026-10-17,2026-10-20,3
+GRV-2026-0123,Arjun Malhotra,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 08 - Residential,Low,Rejected,2026-02-28,,
+GRV-2026-0124,Meera Joshi,Roads & Infrastructure,Public Works Department,Large pothole on the main road causing traffic and accidents,Ward 02 - North,Low,In Progress,2026-03-11,,
+GRV-2026-0125,Arjun Malhotra,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 07 - Industrial,High,Pending,2026-10-10,,
+GRV-2026-0126,Aanya Verma,Public Safety,Police Department,Open manhole creates a serious risk for pedestrians,Ward 07 - Industrial,High,In Progress,2026-02-26,,
+GRV-2026-0127,Ananya Rao,Street Lighting,Electricity Department,Street light pole is leaning and appears unsafe,Ward 06 - Market,Medium,Resolved,2026-04-15,2026-04-19,4
+GRV-2026-0128,Aanya Verma,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 02 - North,Low,Resolved,2026-08-25,2026-08-28,3
+GRV-2026-0129,Aanya Verma,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 06 - Market,High,Resolved,2026-02-01,2026-02-12,11
+GRV-2026-0130,Arjun Malhotra,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 03 - South,Low,In Progress,2026-06-17,,
+GRV-2026-0131,Sara Khan,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 07 - Industrial,Medium,Resolved,2026-09-18,2026-09-27,9
+GRV-2026-0132,Ananya Rao,Roads & Infrastructure,Municipal Corporation,Footpath is broken and difficult for pedestrians to use,Ward 01 - Central,High,Pending,2026-10-29,,
+GRV-2026-0133,Aarav Sharma,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 04 - East,Low,In Progress,2026-01-26,,
+GRV-2026-0134,Ananya Rao,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 01 - Central,Medium,Pending,2026-03-25,,
+GRV-2025-0135,Meera Joshi,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 07 - Industrial,Medium,Resolved,2025-12-31,2026-01-14,14
+GRV-2026-0136,Sara Khan,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 05 - West,Low,In Progress,2026-02-23,,
+GRV-2026-0137,Priya Singh,Roads & Infrastructure,Public Works Department,Road surface is damaged near the residential market,Ward 05 - West,Medium,Pending,2026-04-23,,
+GRV-2026-0138,Rohan Gupta,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 04 - East,Medium,In Progress,2026-09-12,,
+GRV-2026-0139,Aanya Verma,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 07 - Industrial,Low,Pending,2026-04-22,,
+GRV-2026-0140,Rohan Gupta,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 06 - Market,Critical,In Progress,2026-06-17,,
+GRV-2026-0141,Aanya Verma,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 05 - West,Medium,In Progress,2026-09-19,,
+GRV-2026-0142,Arjun Malhotra,Healthcare,Health Department,Long waiting time at the public health facility,Ward 06 - Market,High,Pending,2026-05-26,,
+GRV-2026-0143,Sara Khan,Healthcare,Health Department,Long waiting time at the public health facility,Ward 02 - North,Medium,Pending,2026-07-15,,
+GRV-2026-0144,Ananya Rao,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 08 - Residential,Medium,Resolved,2026-03-19,2026-03-30,11
+GRV-2026-0145,Aarav Sharma,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 02 - North,Medium,In Progress,2026-03-30,,
+GRV-2026-0146,Aanya Verma,Public Safety,Police Department,Street harassment reported near the bus stop,Ward 07 - Industrial,High,Pending,2026-03-26,,
+GRV-2026-0147,Arjun Malhotra,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 01 - Central,Medium,Resolved,2026-03-26,2026-04-11,16
+GRV-2026-0148,Aarav Sharma,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 08 - Residential,High,Pending,2026-05-20,,
+GRV-2026-0149,Sara Khan,Street Lighting,Electricity Department,Street lights are not working in the residential lane,Ward 06 - Market,Medium,Resolved,2026-05-10,2026-05-21,11
+GRV-2026-0150,Ananya Rao,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 03 - South,Medium,Resolved,2026-09-24,2026-09-29,5
+GRV-2025-0151,Kabir Mehta,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 06 - Market,Low,Resolved,2025-12-11,2025-12-14,3
+GRV-2025-0152,Ananya Rao,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 03 - South,Medium,In Progress,2025-12-16,,
+GRV-2026-0153,Aanya Verma,Sanitation,Sanitation Department,Blocked public drain is causing waterlogging,Ward 02 - North,Low,Pending,2026-03-09,,
+GRV-2025-0154,Sara Khan,Roads & Infrastructure,Municipal Corporation,Road surface is damaged near the residential market,Ward 08 - Residential,Low,Resolved,2025-12-31,2026-01-06,6
+GRV-2026-0155,Meera Joshi,Roads & Infrastructure,Municipal Corporation,Road surface is damaged near the residential market,Ward 04 - East,Critical,Resolved,2026-05-09,2026-05-19,10
+GRV-2026-0156,Meera Joshi,Public Safety,Police Department,Broken traffic signal is creating unsafe road conditions,Ward 07 - Industrial,High,Resolved,2026-08-05,2026-08-20,15
+GRV-2026-0157,Meera Joshi,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 02 - North,Medium,Pending,2026-08-01,,
+GRV-2026-0158,Rohan Gupta,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 02 - North,Critical,Pending,2026-10-01,,
+GRV-2026-0159,Ananya Rao,Sanitation,Sanitation Department,Overflowing dustbins are creating an unhygienic environment,Ward 07 - Industrial,Medium,In Progress,2026-05-18,,
+GRV-2026-0160,Ananya Rao,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 03 - South,Low,In Progress,2026-07-21,,
+GRV-2026-0161,Meera Joshi,Roads & Infrastructure,Municipal Corporation,Large pothole on the main road causing traffic and accidents,Ward 02 - North,High,Resolved,2026-03-15,2026-03-31,16
+GRV-2026-0162,Ishaan Kapoor,Roads & Infrastructure,Municipal Corporation,Large pothole on the main road causing traffic and accidents,Ward 05 - West,High,Resolved,2026-07-25,2026-08-11,17
+GRV-2026-0163,Sara Khan,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 02 - North,High,Pending,2026-09-11,,
+GRV-2026-0164,Priya Singh,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 05 - West,Medium,Pending,2026-01-10,,
+GRV-2026-0165,Aanya Verma,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 02 - North,Medium,Pending,2026-01-02,,
+GRV-2026-0166,Aarav Sharma,Roads & Infrastructure,Municipal Corporation,Footpath is broken and difficult for pedestrians to use,Ward 02 - North,Critical,Resolved,2026-03-17,2026-03-26,9
+GRV-2025-0167,Ananya Rao,Healthcare,Health Department,Long waiting time at the public health facility,Ward 01 - Central,High,Pending,2025-12-10,,
+GRV-2025-0168,Rohan Gupta,Healthcare,Health Department,Long waiting time at the public health facility,Ward 02 - North,High,Resolved,2025-12-18,2026-01-03,16
+GRV-2026-0169,Aarav Sharma,Street Lighting,Electricity Department,Dark public road creates safety concerns at night,Ward 05 - West,Medium,Pending,2026-06-15,,
+GRV-2026-0170,Aarav Sharma,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 05 - West,Medium,Resolved,2026-07-06,2026-07-18,12
+GRV-2026-0171,Ananya Rao,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 08 - Residential,Critical,Resolved,2026-04-02,2026-04-15,13
+GRV-2026-0172,Ishaan Kapoor,Street Lighting,Municipal Corporation,Several street lamps are damaged near the park,Ward 05 - West,High,Resolved,2026-02-20,2026-02-23,3
+GRV-2026-0173,Rohan Gupta,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 06 - Market,Medium,Resolved,2026-10-03,2026-10-17,14
+GRV-2026-0174,Aarav Sharma,Street Lighting,Electricity Department,Street lights are not working in the residential lane,Ward 07 - Industrial,Medium,Rejected,2026-05-15,,
+GRV-2026-0175,Aarav Sharma,Healthcare,Health Department,Long waiting time at the public health facility,Ward 02 - North,High,Resolved,2026-10-28,2026-11-12,15
+GRV-2026-0176,Rohan Gupta,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 06 - Market,Low,Rejected,2026-05-10,,
+GRV-2026-0177,Ananya Rao,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 04 - East,Medium,Pending,2026-10-03,,
+GRV-2026-0178,Aanya Verma,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 05 - West,Critical,In Progress,2026-08-08,,
+GRV-2026-0179,Aanya Verma,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 02 - North,Critical,Resolved,2026-01-03,2026-01-10,7
+GRV-2025-0180,Ananya Rao,Street Lighting,Electricity Department,Dark public road creates safety concerns at night,Ward 02 - North,High,Rejected,2025-11-11,,
+GRV-2026-0181,Ananya Rao,Public Safety,Police Department,Open manhole creates a serious risk for pedestrians,Ward 02 - North,High,Resolved,2026-08-23,2026-08-29,6
+GRV-2026-0182,Ananya Rao,Sanitation,Municipal Corporation,Dead animal has not been removed from the public area,Ward 03 - South,Medium,Pending,2026-07-13,,
+GRV-2026-0183,Arjun Malhotra,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 07 - Industrial,High,Rejected,2026-06-06,,
+GRV-2026-0184,Arjun Malhotra,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 03 - South,Medium,Pending,2026-06-02,,
+GRV-2026-0185,Arjun Malhotra,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 05 - West,Low,Resolved,2026-04-04,2026-04-08,4
+GRV-2026-0186,Arjun Malhotra,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 02 - North,Critical,Pending,2026-05-30,,
+GRV-2025-0187,Sara Khan,Public Safety,Public Safety Department,Street harassment reported near the bus stop,Ward 03 - South,High,Pending,2025-12-21,,
+GRV-2025-0188,Aarav Sharma,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 01 - Central,High,Resolved,2025-12-09,2025-12-11,2
+GRV-2026-0189,Kabir Mehta,Public Safety,Public Safety Department,Broken traffic signal is creating unsafe road conditions,Ward 08 - Residential,Low,Resolved,2026-01-23,2026-02-10,18
+GRV-2026-0190,Meera Joshi,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 08 - Residential,Low,Pending,2026-06-12,,
+GRV-2026-0191,Ananya Rao,Street Lighting,Electricity Department,Dark public road creates safety concerns at night,Ward 07 - Industrial,High,Pending,2026-05-21,,
+GRV-2026-0192,Aanya Verma,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 08 - Residential,Medium,Pending,2026-02-21,,
+GRV-2026-0193,Sara Khan,Sanitation,Municipal Corporation,Dead animal has not been removed from the public area,Ward 04 - East,Medium,In Progress,2026-09-24,,
+GRV-2026-0194,Meera Joshi,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 08 - Residential,High,In Progress,2026-01-20,,
+GRV-2026-0195,Priya Singh,Public Safety,Police Department,Open manhole creates a serious risk for pedestrians,Ward 06 - Market,Medium,Rejected,2026-11-01,,
+GRV-2026-0196,Kabir Mehta,Roads & Infrastructure,Public Works Department,Large pothole on the main road causing traffic and accidents,Ward 02 - North,High,Resolved,2026-06-20,2026-07-06,16
+GRV-2026-0197,Aarav Sharma,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 01 - Central,Medium,In Progress,2026-06-29,,
+GRV-2026-0198,Arjun Malhotra,Sanitation,Sanitation Department,Blocked public drain is causing waterlogging,Ward 02 - North,Medium,Pending,2026-02-02,,
+GRV-2026-0199,Rohan Gupta,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 07 - Industrial,Medium,Resolved,2026-04-25,2026-05-07,12
+GRV-2026-0200,Meera Joshi,Roads & Infrastructure,Public Works Department,Road surface is damaged near the residential market,Ward 03 - South,High,Resolved,2026-10-24,2026-11-10,17
+GRV-2026-0201,Kabir Mehta,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 08 - Residential,High,Rejected,2026-08-20,,
+GRV-2026-0202,Ishaan Kapoor,Public Safety,Police Department,Broken traffic signal is creating unsafe road conditions,Ward 01 - Central,Low,In Progress,2026-11-04,,
+GRV-2025-0203,Rohan Gupta,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 03 - South,High,Resolved,2025-12-11,2025-12-27,16
+GRV-2026-0204,Ananya Rao,Sanitation,Municipal Corporation,Dead animal has not been removed from the public area,Ward 03 - South,Low,Pending,2026-01-22,,
+GRV-2026-0205,Rohan Gupta,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 06 - Market,Critical,Resolved,2026-04-15,2026-04-17,2
+GRV-2026-0206,Arjun Malhotra,Street Lighting,Municipal Corporation,Dark public road creates safety concerns at night,Ward 05 - West,Medium,In Progress,2026-06-05,,
+GRV-2026-0207,Kabir Mehta,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 08 - Residential,Medium,Resolved,2026-07-09,2026-07-19,10
+GRV-2026-0208,Kabir Mehta,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 07 - Industrial,High,Resolved,2026-05-17,2026-05-26,9
+GRV-2026-0209,Aanya Verma,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 08 - Residential,Critical,Pending,2026-08-30,,
+GRV-2026-0210,Kabir Mehta,Public Safety,Police Department,Open manhole creates a serious risk for pedestrians,Ward 02 - North,Medium,Resolved,2026-07-26,2026-08-13,18
+GRV-2026-0211,Aarav Sharma,Sanitation,Municipal Corporation,Garbage has not been collected for several days,Ward 07 - Industrial,Medium,Resolved,2026-10-17,2026-10-25,8
+GRV-2026-0212,Rohan Gupta,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 08 - Residential,Low,Resolved,2026-09-21,2026-10-09,18
+GRV-2026-0213,Aanya Verma,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 01 - Central,Low,In Progress,2026-06-18,,
+GRV-2026-0214,Meera Joshi,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 05 - West,Medium,Rejected,2026-08-14,,
+GRV-2026-0215,Kabir Mehta,Roads & Infrastructure,Public Works Department,Drain cover is missing near the road intersection,Ward 08 - Residential,Critical,Resolved,2026-06-12,2026-06-23,11
+GRV-2026-0216,Kabir Mehta,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 01 - Central,Medium,Resolved,2026-06-26,2026-07-11,15
+GRV-2026-0217,Ishaan Kapoor,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 02 - North,Low,Resolved,2026-01-25,2026-02-07,13
+GRV-2026-0218,Aarav Sharma,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 07 - Industrial,Critical,In Progress,2026-08-10,,
+GRV-2026-0219,Aarav Sharma,Sanitation,Sanitation Department,Blocked public drain is causing waterlogging,Ward 06 - Market,High,In Progress,2026-06-29,,
+GRV-2025-0220,Arjun Malhotra,Sanitation,Municipal Corporation,Blocked public drain is causing waterlogging,Ward 02 - North,Low,In Progress,2025-12-06,,
+GRV-2026-0221,Rohan Gupta,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 06 - Market,Low,Pending,2026-01-02,,
+GRV-2026-0222,Arjun Malhotra,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 06 - Market,High,Resolved,2026-02-09,2026-02-12,3
+GRV-2026-0223,Rohan Gupta,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 06 - Market,Medium,Resolved,2026-10-11,2026-10-29,18
+GRV-2025-0224,Meera Joshi,Street Lighting,Electricity Department,Street lights are not working in the residential lane,Ward 08 - Residential,Medium,Resolved,2025-11-29,2025-12-16,17
+GRV-2026-0225,Kabir Mehta,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 07 - Industrial,Medium,Pending,2026-03-23,,
+GRV-2026-0226,Aanya Verma,Public Safety,Public Safety Department,Street harassment reported near the bus stop,Ward 02 - North,Medium,Pending,2026-07-23,,
+GRV-2026-0227,Ishaan Kapoor,Street Lighting,Electricity Department,Dark public road creates safety concerns at night,Ward 07 - Industrial,Low,Pending,2026-06-18,,
+GRV-2026-0228,Rohan Gupta,Street Lighting,Municipal Corporation,Dark public road creates safety concerns at night,Ward 02 - North,High,Resolved,2026-05-04,2026-05-22,18
+GRV-2026-0229,Aarav Sharma,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 08 - Residential,Medium,Resolved,2026-02-15,2026-02-16,1
+GRV-2026-0230,Priya Singh,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 01 - Central,Low,In Progress,2026-07-18,,
+GRV-2026-0231,Meera Joshi,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 04 - East,High,Pending,2026-07-12,,
+GRV-2026-0232,Rohan Gupta,Roads & Infrastructure,Municipal Corporation,Footpath is broken and difficult for pedestrians to use,Ward 04 - East,High,Resolved,2026-04-02,2026-04-04,2
+GRV-2026-0233,Priya Singh,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 05 - West,Critical,Resolved,2026-07-14,2026-07-31,17
+GRV-2026-0234,Arjun Malhotra,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 01 - Central,Critical,Resolved,2026-01-30,2026-02-13,14
+GRV-2026-0235,Ishaan Kapoor,Healthcare,Health Department,Long waiting time at the public health facility,Ward 08 - Residential,Medium,Resolved,2026-02-17,2026-02-27,10
+GRV-2026-0236,Aarav Sharma,Sanitation,Municipal Corporation,Dead animal has not been removed from the public area,Ward 07 - Industrial,Medium,Pending,2026-06-11,,
+GRV-2026-0237,Meera Joshi,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 02 - North,High,Pending,2026-07-11,,
+GRV-2026-0238,Priya Singh,Sanitation,Municipal Corporation,Overflowing dustbins are creating an unhygienic environment,Ward 08 - Residential,High,Resolved,2026-06-27,2026-06-30,3
+GRV-2026-0239,Aanya Verma,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 04 - East,Medium,Pending,2026-06-10,,
+GRV-2026-0240,Meera Joshi,Sanitation,Sanitation Department,Blocked public drain is causing waterlogging,Ward 05 - West,Medium,In Progress,2026-07-12,,
+GRV-2026-0241,Meera Joshi,Public Safety,Police Department,Broken traffic signal is creating unsafe road conditions,Ward 04 - East,High,In Progress,2026-02-22,,
+GRV-2026-0242,Aarav Sharma,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 07 - Industrial,Medium,Resolved,2026-04-15,2026-04-20,5
+GRV-2026-0243,Priya Singh,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 06 - Market,High,Pending,2026-08-04,,
+GRV-2025-0244,Ananya Rao,Public Safety,Police Department,Open manhole creates a serious risk for pedestrians,Ward 03 - South,Low,In Progress,2025-12-18,,
+GRV-2026-0245,Aanya Verma,Street Lighting,Electricity Department,Street lights are not working in the residential lane,Ward 01 - Central,Medium,Rejected,2026-02-07,,
+GRV-2025-0246,Priya Singh,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 06 - Market,Low,Pending,2025-12-25,,
+GRV-2025-0247,Ishaan Kapoor,Roads & Infrastructure,Municipal Corporation,Large pothole on the main road causing traffic and accidents,Ward 01 - Central,Medium,Pending,2025-12-09,,
+GRV-2026-0248,Aanya Verma,Public Safety,Police Department,Street harassment reported near the bus stop,Ward 03 - South,High,Resolved,2026-11-03,2026-11-09,6
+GRV-2025-0249,Ishaan Kapoor,Sanitation,Municipal Corporation,Garbage has not been collected for several days,Ward 06 - Market,Medium,Pending,2025-12-29,,
+GRV-2026-0250,Aanya Verma,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 02 - North,Medium,Rejected,2026-01-27,,
+GRV-2026-0251,Rohan Gupta,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 08 - Residential,High,In Progress,2026-05-02,,
+GRV-2026-0252,Priya Singh,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 05 - West,Critical,Resolved,2026-01-27,2026-02-04,8
+GRV-2025-0253,Rohan Gupta,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 01 - Central,High,Resolved,2025-11-27,2025-11-29,2
+GRV-2025-0254,Sara Khan,Sanitation,Municipal Corporation,Dead animal has not been removed from the public area,Ward 06 - Market,Medium,Resolved,2025-11-12,2025-11-20,8
+GRV-2025-0255,Ananya Rao,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 02 - North,High,Pending,2025-11-24,,
+GRV-2026-0256,Ananya Rao,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 05 - West,High,Resolved,2026-10-05,2026-10-18,13
+GRV-2026-0257,Sara Khan,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 02 - North,Medium,Resolved,2026-07-19,2026-07-25,6
+GRV-2025-0258,Rohan Gupta,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 06 - Market,Low,Pending,2025-11-12,,
+GRV-2026-0259,Kabir Mehta,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 03 - South,Medium,Rejected,2026-09-27,,
+GRV-2026-0260,Aarav Sharma,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 06 - Market,Medium,Resolved,2026-04-05,2026-04-09,4
+GRV-2026-0261,Aanya Verma,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 03 - South,Medium,In Progress,2026-04-29,,
+GRV-2026-0262,Aanya Verma,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 07 - Industrial,Medium,In Progress,2026-09-02,,
+GRV-2026-0263,Meera Joshi,Public Safety,Police Department,Open manhole creates a serious risk for pedestrians,Ward 08 - Residential,Medium,Resolved,2026-06-11,2026-06-19,8
+GRV-2026-0264,Sara Khan,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 06 - Market,Medium,Rejected,2026-06-10,,
+GRV-2026-0265,Ananya Rao,Street Lighting,Municipal Corporation,Several street lamps are damaged near the park,Ward 08 - Residential,Low,Rejected,2026-04-05,,
+GRV-2026-0266,Meera Joshi,Healthcare,Health Department,Long waiting time at the public health facility,Ward 06 - Market,High,In Progress,2026-04-23,,
+GRV-2026-0267,Sara Khan,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 01 - Central,High,Pending,2026-04-25,,
+GRV-2026-0268,Meera Joshi,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 05 - West,Low,Resolved,2026-04-02,2026-04-16,14
+GRV-2025-0269,Meera Joshi,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 07 - Industrial,High,Resolved,2025-12-10,2025-12-13,3
+GRV-2026-0270,Aanya Verma,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 06 - Market,Medium,Resolved,2026-05-11,2026-05-14,3
+GRV-2026-0271,Ishaan Kapoor,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 01 - Central,Medium,Resolved,2026-01-27,2026-02-07,11
+GRV-2026-0272,Meera Joshi,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 07 - Industrial,Medium,Resolved,2026-07-21,2026-07-29,8
+GRV-2026-0273,Aanya Verma,Street Lighting,Electricity Department,Street lights are not working in the residential lane,Ward 03 - South,Medium,In Progress,2026-05-20,,
+GRV-2026-0274,Meera Joshi,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 08 - Residential,Medium,Resolved,2026-05-20,2026-06-01,12
+GRV-2026-0275,Aarav Sharma,Street Lighting,Municipal Corporation,Dark public road creates safety concerns at night,Ward 02 - North,High,Pending,2026-10-09,,
+GRV-2026-0276,Meera Joshi,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 07 - Industrial,Medium,Resolved,2026-02-21,2026-03-07,14
+GRV-2025-0277,Sara Khan,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 08 - Residential,Low,In Progress,2025-12-19,,
+GRV-2026-0278,Aanya Verma,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 03 - South,Medium,Pending,2026-11-09,,
+GRV-2026-0279,Meera Joshi,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 07 - Industrial,High,Pending,2026-08-03,,
+GRV-2026-0280,Sara Khan,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 03 - South,High,Resolved,2026-05-18,2026-05-28,10
+GRV-2026-0281,Rohan Gupta,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 07 - Industrial,Medium,Pending,2026-07-13,,
+GRV-2026-0282,Rohan Gupta,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 08 - Residential,Medium,In Progress,2026-04-10,,
+GRV-2026-0283,Aarav Sharma,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 03 - South,High,Resolved,2026-08-09,2026-08-21,12
+GRV-2026-0284,Ishaan Kapoor,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 08 - Residential,Medium,Resolved,2026-01-28,2026-02-13,16
+GRV-2026-0285,Kabir Mehta,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 05 - West,Medium,Resolved,2026-01-27,2026-01-29,2
+GRV-2026-0286,Aanya Verma,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 05 - West,Medium,Resolved,2026-01-26,2026-02-12,17
+GRV-2026-0287,Priya Singh,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 01 - Central,Medium,Pending,2026-03-31,,
+GRV-2026-0288,Priya Singh,Street Lighting,Municipal Corporation,Several street lamps are damaged near the park,Ward 06 - Market,Critical,In Progress,2026-05-18,,
+GRV-2026-0289,Sara Khan,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 05 - West,High,Resolved,2026-01-01,2026-01-03,2
+GRV-2025-0290,Arjun Malhotra,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 03 - South,Medium,In Progress,2025-11-17,,
+GRV-2026-0291,Priya Singh,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 06 - Market,High,Pending,2026-06-23,,
+GRV-2026-0292,Ishaan Kapoor,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 02 - North,Medium,Resolved,2026-03-07,2026-03-21,14
+GRV-2026-0293,Ananya Rao,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 08 - Residential,Critical,Pending,2026-02-21,,
+GRV-2026-0294,Ananya Rao,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 07 - Industrial,High,Rejected,2026-09-25,,
+GRV-2026-0295,Ananya Rao,Sanitation,Sanitation Department,Overflowing dustbins are creating an unhygienic environment,Ward 08 - Residential,High,Pending,2026-07-26,,
+GRV-2026-0296,Aanya Verma,Healthcare,Health Department,Long waiting time at the public health facility,Ward 08 - Residential,High,Resolved,2026-10-20,2026-10-21,1
+GRV-2026-0297,Kabir Mehta,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 05 - West,Critical,Rejected,2026-04-07,,
+GRV-2026-0298,Rohan Gupta,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 07 - Industrial,Critical,In Progress,2026-07-07,,
+GRV-2026-0299,Priya Singh,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 02 - North,Low,Pending,2026-04-06,,
+GRV-2026-0300,Ananya Rao,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 07 - Industrial,Low,In Progress,2026-02-19,,
+GRV-2026-0301,Aanya Verma,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 06 - Market,High,In Progress,2026-10-07,,
+GRV-2026-0302,Rohan Gupta,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 01 - Central,High,Resolved,2026-09-02,2026-09-07,5
+GRV-2026-0303,Ishaan Kapoor,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 04 - East,High,Pending,2026-05-16,,
+GRV-2026-0304,Ananya Rao,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 04 - East,Medium,Resolved,2026-09-02,2026-09-16,14
+GRV-2026-0305,Aarav Sharma,Public Safety,Public Safety Department,Broken traffic signal is creating unsafe road conditions,Ward 04 - East,High,Resolved,2026-07-07,2026-07-17,10
+GRV-2026-0306,Priya Singh,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 07 - Industrial,Critical,Pending,2026-06-13,,
+GRV-2026-0307,Ananya Rao,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 03 - South,Medium,Resolved,2026-03-01,2026-03-02,1
+GRV-2026-0308,Aarav Sharma,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 01 - Central,High,Resolved,2026-05-08,2026-05-11,3
+GRV-2026-0309,Kabir Mehta,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 07 - Industrial,Medium,Rejected,2026-10-23,,
+GRV-2025-0310,Kabir Mehta,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 04 - East,Low,Resolved,2025-12-19,2025-12-22,3
+GRV-2026-0311,Kabir Mehta,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 04 - East,High,Resolved,2026-04-25,2026-04-28,3
+GRV-2026-0312,Aarav Sharma,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 03 - South,High,Pending,2026-09-28,,
+GRV-2025-0313,Arjun Malhotra,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 03 - South,Low,Resolved,2025-11-15,2025-11-27,12
+GRV-2026-0314,Ananya Rao,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 05 - West,High,Resolved,2026-06-27,2026-06-28,1
+GRV-2025-0315,Ananya Rao,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 08 - Residential,Medium,Resolved,2025-11-12,2025-11-29,17
+GRV-2026-0316,Priya Singh,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 01 - Central,Critical,Resolved,2026-08-24,2026-08-28,4
+GRV-2026-0317,Rohan Gupta,Roads & Infrastructure,Public Works Department,Large pothole on the main road causing traffic and accidents,Ward 07 - Industrial,Critical,In Progress,2026-10-19,,
+GRV-2026-0318,Sara Khan,Sanitation,Sanitation Department,Blocked public drain is causing waterlogging,Ward 02 - North,Medium,Resolved,2026-07-07,2026-07-10,3
+GRV-2026-0319,Aanya Verma,Roads & Infrastructure,Public Works Department,Drain cover is missing near the road intersection,Ward 05 - West,Critical,Rejected,2026-07-20,,
+GRV-2026-0320,Kabir Mehta,Public Safety,Police Department,Broken traffic signal is creating unsafe road conditions,Ward 04 - East,Medium,In Progress,2026-09-28,,
+GRV-2026-0321,Arjun Malhotra,Street Lighting,Municipal Corporation,Several street lamps are damaged near the park,Ward 03 - South,High,Rejected,2026-01-13,,
+GRV-2026-0322,Ananya Rao,Roads & Infrastructure,Municipal Corporation,Large pothole on the main road causing traffic and accidents,Ward 07 - Industrial,High,Resolved,2026-10-31,2026-11-01,1
+GRV-2026-0323,Aarav Sharma,Public Safety,Public Safety Department,Open manhole creates a serious risk for pedestrians,Ward 05 - West,Medium,Rejected,2026-07-29,,
+GRV-2026-0324,Meera Joshi,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 02 - North,Critical,In Progress,2026-07-16,,
+GRV-2026-0325,Priya Singh,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 05 - West,Medium,Resolved,2026-10-04,2026-10-09,5
+GRV-2025-0326,Priya Singh,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 04 - East,Medium,In Progress,2025-11-18,,
+GRV-2026-0327,Ishaan Kapoor,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 06 - Market,Medium,Pending,2026-08-25,,
+GRV-2026-0328,Rohan Gupta,Sanitation,Sanitation Department,Blocked public drain is causing waterlogging,Ward 01 - Central,Low,Pending,2026-06-07,,
+GRV-2026-0329,Arjun Malhotra,Sanitation,Sanitation Department,Garbage has not been collected for several days,Ward 05 - West,Critical,Resolved,2026-08-29,2026-09-11,13
+GRV-2026-0330,Priya Singh,Public Safety,Public Safety Department,Street harassment reported near the bus stop,Ward 08 - Residential,Medium,Resolved,2026-10-27,2026-11-14,18
+GRV-2026-0331,Priya Singh,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 04 - East,High,Pending,2026-09-11,,
+GRV-2025-0332,Aanya Verma,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 02 - North,Low,Resolved,2025-11-25,2025-12-04,9
+GRV-2026-0333,Aanya Verma,Sanitation,Sanitation Department,Garbage has not been collected for several days,Ward 08 - Residential,High,Resolved,2026-09-08,2026-09-19,11
+GRV-2026-0334,Ishaan Kapoor,Roads & Infrastructure,Public Works Department,Drain cover is missing near the road intersection,Ward 03 - South,Medium,Resolved,2026-01-22,2026-01-23,1
+GRV-2026-0335,Aarav Sharma,Healthcare,Health Department,Long waiting time at the public health facility,Ward 05 - West,Critical,Pending,2026-08-09,,
+GRV-2026-0336,Rohan Gupta,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 04 - East,Medium,Pending,2026-02-03,,
+GRV-2026-0337,Meera Joshi,Sanitation,Municipal Corporation,Blocked public drain is causing waterlogging,Ward 06 - Market,Medium,In Progress,2026-04-30,,
+GRV-2026-0338,Kabir Mehta,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 08 - Residential,Medium,In Progress,2026-08-12,,
+GRV-2026-0339,Arjun Malhotra,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 04 - East,Medium,Pending,2026-08-23,,
+GRV-2026-0340,Ananya Rao,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 06 - Market,Medium,Pending,2026-08-16,,
+GRV-2026-0341,Aanya Verma,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 04 - East,Medium,In Progress,2026-03-04,,
+GRV-2026-0342,Priya Singh,Sanitation,Municipal Corporation,Overflowing dustbins are creating an unhygienic environment,Ward 06 - Market,Critical,Pending,2026-02-15,,
+GRV-2026-0343,Rohan Gupta,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 06 - Market,High,Pending,2026-10-13,,
+GRV-2025-0344,Kabir Mehta,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 03 - South,Low,In Progress,2025-11-16,,
+GRV-2025-0345,Sara Khan,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 04 - East,Low,Resolved,2025-12-19,2026-01-06,18
+GRV-2026-0346,Sara Khan,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 01 - Central,Low,Resolved,2026-06-07,2026-06-08,1
+GRV-2026-0347,Rohan Gupta,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 02 - North,Low,Resolved,2026-01-03,2026-01-19,16
+GRV-2026-0348,Meera Joshi,Sanitation,Sanitation Department,Garbage has not been collected for several days,Ward 05 - West,Critical,Resolved,2026-06-02,2026-06-13,11
+GRV-2025-0349,Aarav Sharma,Sanitation,Municipal Corporation,Garbage has not been collected for several days,Ward 07 - Industrial,High,In Progress,2025-11-23,,
+GRV-2026-0350,Arjun Malhotra,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 02 - North,Medium,In Progress,2026-08-18,,
+GRV-2026-0351,Kabir Mehta,Street Lighting,Electricity Department,Street lights are not working in the residential lane,Ward 06 - Market,High,Pending,2026-08-20,,
+GRV-2026-0352,Aanya Verma,Public Safety,Public Safety Department,Street harassment reported near the bus stop,Ward 06 - Market,Medium,Pending,2026-10-06,,
+GRV-2026-0353,Rohan Gupta,Street Lighting,Electricity Department,Street lights are not working in the residential lane,Ward 02 - North,Critical,Pending,2026-04-05,,
+GRV-2026-0354,Kabir Mehta,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 05 - West,High,Resolved,2026-08-06,2026-08-24,18
+GRV-2026-0355,Aarav Sharma,Sanitation,Municipal Corporation,Blocked public drain is causing waterlogging,Ward 01 - Central,High,Resolved,2026-10-17,2026-10-22,5
+GRV-2026-0356,Aarav Sharma,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 03 - South,Medium,Resolved,2026-06-14,2026-06-18,4
+GRV-2026-0357,Meera Joshi,Public Safety,Public Safety Department,Broken traffic signal is creating unsafe road conditions,Ward 02 - North,Medium,In Progress,2026-03-15,,
+GRV-2026-0358,Kabir Mehta,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 08 - Residential,Medium,In Progress,2026-05-06,,
+GRV-2026-0359,Aanya Verma,Public Safety,Public Safety Department,Street harassment reported near the bus stop,Ward 06 - Market,High,Pending,2026-06-27,,
+GRV-2026-0360,Arjun Malhotra,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 04 - East,High,Resolved,2026-02-02,2026-02-16,14
+GRV-2026-0361,Sara Khan,Street Lighting,Municipal Corporation,Several street lamps are damaged near the park,Ward 02 - North,High,Resolved,2026-10-02,2026-10-19,17
+GRV-2026-0362,Aanya Verma,Street Lighting,Electricity Department,Street light pole is leaning and appears unsafe,Ward 04 - East,Low,Resolved,2026-08-19,2026-09-02,14
+GRV-2026-0363,Arjun Malhotra,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 06 - Market,Low,Resolved,2026-06-01,2026-06-14,13
+GRV-2026-0364,Aanya Verma,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 03 - South,Medium,Resolved,2026-11-05,2026-11-19,14
+GRV-2026-0365,Ananya Rao,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 05 - West,High,Resolved,2026-09-18,2026-10-06,18
+GRV-2026-0366,Ishaan Kapoor,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 07 - Industrial,Low,In Progress,2026-01-23,,
+GRV-2026-0367,Kabir Mehta,Roads & Infrastructure,Municipal Corporation,Footpath is broken and difficult for pedestrians to use,Ward 01 - Central,High,Pending,2026-05-26,,
+GRV-2026-0368,Priya Singh,Healthcare,Health Department,Long waiting time at the public health facility,Ward 05 - West,High,Resolved,2026-06-06,2026-06-10,4
+GRV-2026-0369,Priya Singh,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 04 - East,High,In Progress,2026-06-27,,
+GRV-2026-0370,Aanya Verma,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 07 - Industrial,Medium,Resolved,2026-02-21,2026-02-27,6
+GRV-2026-0371,Priya Singh,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 08 - Residential,Medium,Resolved,2026-08-16,2026-08-18,2
+GRV-2025-0372,Arjun Malhotra,Roads & Infrastructure,Municipal Corporation,Drain cover is missing near the road intersection,Ward 02 - North,High,Pending,2025-11-17,,
+GRV-2026-0373,Sara Khan,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 06 - Market,Low,Resolved,2026-05-05,2026-05-21,16
+GRV-2025-0374,Rohan Gupta,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 04 - East,Medium,In Progress,2025-11-25,,
+GRV-2026-0375,Aarav Sharma,Sanitation,Municipal Corporation,Dead animal has not been removed from the public area,Ward 03 - South,Low,In Progress,2026-06-27,,
+GRV-2026-0376,Ishaan Kapoor,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 06 - Market,Critical,Resolved,2026-07-21,2026-07-30,9
+GRV-2026-0377,Sara Khan,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 02 - North,Medium,In Progress,2026-07-23,,
+GRV-2026-0378,Meera Joshi,Roads & Infrastructure,Municipal Corporation,Large pothole on the main road causing traffic and accidents,Ward 06 - Market,Medium,Resolved,2026-01-28,2026-02-01,4
+GRV-2026-0379,Priya Singh,Public Safety,Police Department,Open manhole creates a serious risk for pedestrians,Ward 04 - East,Critical,Resolved,2026-06-24,2026-07-04,10
+GRV-2025-0380,Kabir Mehta,Roads & Infrastructure,Municipal Corporation,Footpath is broken and difficult for pedestrians to use,Ward 07 - Industrial,High,Resolved,2025-12-09,2025-12-25,16
+GRV-2026-0381,Ananya Rao,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 08 - Residential,High,Resolved,2026-10-24,2026-10-31,7
+GRV-2026-0382,Meera Joshi,Healthcare,Health Department,Long waiting time at the public health facility,Ward 05 - West,Medium,Resolved,2026-08-16,2026-08-20,4
+GRV-2025-0383,Kabir Mehta,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 06 - Market,Medium,Pending,2025-12-12,,
+GRV-2026-0384,Aarav Sharma,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 08 - Residential,Low,In Progress,2026-01-17,,
+GRV-2025-0385,Rohan Gupta,Sanitation,Municipal Corporation,Overflowing dustbins are creating an unhygienic environment,Ward 06 - Market,Medium,Resolved,2025-11-28,2025-12-03,5
+GRV-2026-0386,Meera Joshi,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 03 - South,Medium,Resolved,2026-08-31,2026-09-03,3
+GRV-2026-0387,Rohan Gupta,Healthcare,Health Department,Long waiting time at the public health facility,Ward 08 - Residential,High,Pending,2026-11-09,,
+GRV-2026-0388,Ishaan Kapoor,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 01 - Central,Medium,Resolved,2026-01-01,2026-01-17,16
+GRV-2026-0389,Aarav Sharma,Sanitation,Sanitation Department,Overflowing dustbins are creating an unhygienic environment,Ward 04 - East,Medium,Resolved,2026-11-05,2026-11-06,1
+GRV-2026-0390,Rohan Gupta,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 01 - Central,High,In Progress,2026-09-07,,
+GRV-2026-0391,Rohan Gupta,Public Safety,Police Department,Broken traffic signal is creating unsafe road conditions,Ward 08 - Residential,Medium,Resolved,2026-03-23,2026-04-06,14
+GRV-2026-0392,Rohan Gupta,Healthcare,Health Department,Long waiting time at the public health facility,Ward 01 - Central,Medium,Pending,2026-08-19,,
+GRV-2026-0393,Arjun Malhotra,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 01 - Central,Low,Resolved,2026-05-08,2026-05-17,9
+GRV-2026-0394,Aanya Verma,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 08 - Residential,Medium,Pending,2026-10-18,,
+GRV-2025-0395,Arjun Malhotra,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 03 - South,Medium,Resolved,2025-11-21,2025-11-25,4
+GRV-2026-0396,Meera Joshi,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 04 - East,Medium,Resolved,2026-02-23,2026-02-27,4
+GRV-2026-0397,Arjun Malhotra,Public Safety,Public Safety Department,Emergency street access is blocked by unauthorized parking,Ward 04 - East,Low,In Progress,2026-05-12,,
+GRV-2026-0398,Aanya Verma,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 03 - South,Low,Pending,2026-07-15,,
+GRV-2026-0399,Kabir Mehta,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 01 - Central,Medium,Resolved,2026-09-22,2026-10-02,10
+GRV-2026-0400,Ishaan Kapoor,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 02 - North,High,In Progress,2026-10-23,,
+GRV-2026-0401,Sara Khan,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 02 - North,Medium,Resolved,2026-09-02,2026-09-17,15
+GRV-2026-0402,Kabir Mehta,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 08 - Residential,Critical,In Progress,2026-08-11,,
+GRV-2026-0403,Aanya Verma,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 08 - Residential,Low,Resolved,2026-09-16,2026-09-22,6
+GRV-2026-0404,Meera Joshi,Street Lighting,Electricity Department,Street light pole is leaning and appears unsafe,Ward 02 - North,High,Resolved,2026-01-03,2026-01-08,5
+GRV-2026-0405,Arjun Malhotra,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 06 - Market,Medium,Pending,2026-10-20,,
+GRV-2025-0406,Ishaan Kapoor,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 01 - Central,Medium,Pending,2025-12-08,,
+GRV-2026-0407,Meera Joshi,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 04 - East,High,Resolved,2026-02-26,2026-03-01,3
+GRV-2026-0408,Ishaan Kapoor,Healthcare,Health Department,Long waiting time at the public health facility,Ward 02 - North,High,Pending,2026-10-17,,
+GRV-2026-0409,Ananya Rao,Street Lighting,Municipal Corporation,Street lights are not working in the residential lane,Ward 08 - Residential,Medium,Pending,2026-01-22,,
+GRV-2026-0410,Aanya Verma,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 04 - East,Medium,Pending,2026-04-19,,
+GRV-2026-0411,Arjun Malhotra,Street Lighting,Municipal Corporation,Street light pole is leaning and appears unsafe,Ward 06 - Market,High,Resolved,2026-05-10,2026-05-21,11
+GRV-2026-0412,Kabir Mehta,Street Lighting,Electricity Department,Dark public road creates safety concerns at night,Ward 02 - North,Medium,Pending,2026-09-23,,
+GRV-2026-0413,Aanya Verma,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 04 - East,High,Resolved,2026-03-05,2026-03-19,14
+GRV-2026-0414,Ananya Rao,Sanitation,Municipal Corporation,Garbage has not been collected for several days,Ward 07 - Industrial,High,In Progress,2026-04-25,,
+GRV-2026-0415,Meera Joshi,Roads & Infrastructure,Public Works Department,Large pothole on the main road causing traffic and accidents,Ward 01 - Central,Critical,Resolved,2026-03-26,2026-03-31,5
+GRV-2026-0416,Aanya Verma,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 06 - Market,Low,Resolved,2026-02-25,2026-03-02,5
+GRV-2026-0417,Kabir Mehta,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 03 - South,Medium,Resolved,2026-01-04,2026-01-15,11
+GRV-2026-0418,Ananya Rao,Electricity,Electricity Department,Damaged electric wire hanging dangerously near the street,Ward 04 - East,Medium,Resolved,2026-01-07,2026-01-25,18
+GRV-2025-0419,Arjun Malhotra,Sanitation,Sanitation Department,Blocked public drain is causing waterlogging,Ward 02 - North,Low,Resolved,2025-11-26,2025-12-02,6
+GRV-2026-0420,Arjun Malhotra,Healthcare,Health Department,Public clinic sanitation needs immediate attention,Ward 07 - Industrial,High,Rejected,2026-01-17,,
+GRV-2026-0421,Priya Singh,Roads & Infrastructure,Public Works Department,Footpath is broken and difficult for pedestrians to use,Ward 03 - South,High,Pending,2026-10-30,,
+GRV-2026-0422,Aarav Sharma,Public Safety,Police Department,Broken traffic signal is creating unsafe road conditions,Ward 08 - Residential,Medium,Resolved,2026-08-30,2026-09-17,18
+GRV-2025-0423,Kabir Mehta,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 07 - Industrial,Medium,In Progress,2025-12-15,,
+GRV-2025-0424,Kabir Mehta,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 08 - Residential,Low,Rejected,2025-11-27,,
+GRV-2026-0425,Kabir Mehta,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 03 - South,Medium,Resolved,2026-01-14,2026-01-21,7
+GRV-2026-0426,Ishaan Kapoor,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 05 - West,Medium,In Progress,2026-08-15,,
+GRV-2026-0427,Rohan Gupta,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 03 - South,Medium,Pending,2026-01-17,,
+GRV-2025-0428,Ananya Rao,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 06 - Market,Medium,Resolved,2025-12-26,2026-01-13,18
+GRV-2026-0429,Arjun Malhotra,Sanitation,Municipal Corporation,Dead animal has not been removed from the public area,Ward 02 - North,Low,Resolved,2026-02-19,2026-03-09,18
+GRV-2026-0430,Priya Singh,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 01 - Central,Medium,In Progress,2026-07-25,,
+GRV-2026-0431,Aarav Sharma,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 07 - Industrial,High,Resolved,2026-03-29,2026-04-06,8
+GRV-2026-0432,Ananya Rao,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 08 - Residential,Low,Resolved,2026-07-03,2026-07-20,17
+GRV-2025-0433,Aanya Verma,Roads & Infrastructure,Municipal Corporation,Road surface is damaged near the residential market,Ward 01 - Central,Low,In Progress,2025-12-14,,
+GRV-2025-0434,Aanya Verma,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 07 - Industrial,High,Resolved,2025-12-03,2025-12-17,14
+GRV-2026-0435,Aarav Sharma,Water Supply,Water Supply Department,Water pipeline is leaking and wasting clean water,Ward 05 - West,Low,Resolved,2026-10-30,2026-11-02,3
+GRV-2026-0436,Ishaan Kapoor,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 01 - Central,High,In Progress,2026-07-02,,
+GRV-2026-0437,Aanya Verma,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 02 - North,High,Resolved,2026-02-12,2026-02-14,2
+GRV-2026-0438,Ishaan Kapoor,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 01 - Central,Critical,In Progress,2026-01-06,,
+GRV-2026-0439,Arjun Malhotra,Street Lighting,Electricity Department,Dark public road creates safety concerns at night,Ward 03 - South,Medium,Pending,2026-02-12,,
+GRV-2026-0440,Aarav Sharma,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 02 - North,Low,Resolved,2026-11-06,2026-11-08,2
+GRV-2026-0441,Arjun Malhotra,Public Safety,Public Safety Department,Open manhole creates a serious risk for pedestrians,Ward 03 - South,High,In Progress,2026-05-20,,
+GRV-2026-0442,Sara Khan,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 08 - Residential,Medium,Pending,2026-01-01,,
+GRV-2025-0443,Sara Khan,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 06 - Market,Medium,Pending,2025-12-04,,
+GRV-2025-0444,Aanya Verma,Healthcare,Health Department,Long waiting time at the public health facility,Ward 06 - Market,Medium,Pending,2025-12-03,,
+GRV-2026-0445,Sara Khan,Street Lighting,Municipal Corporation,Dark public road creates safety concerns at night,Ward 06 - Market,High,Resolved,2026-05-27,2026-06-01,5
+GRV-2026-0446,Ishaan Kapoor,Public Transport,Transport Department,Public bus did not stop at the designated bus stop,Ward 06 - Market,Medium,Pending,2026-11-10,,
+GRV-2026-0447,Meera Joshi,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 03 - South,High,In Progress,2026-03-11,,
+GRV-2026-0448,Aanya Verma,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 01 - Central,High,Pending,2026-09-01,,
+GRV-2026-0449,Arjun Malhotra,Roads & Infrastructure,Municipal Corporation,Drain cover is missing near the road intersection,Ward 03 - South,Medium,Resolved,2026-01-14,2026-02-01,18
+GRV-2026-0450,Arjun Malhotra,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 07 - Industrial,Medium,Resolved,2026-07-20,2026-08-04,15
+GRV-2025-0451,Arjun Malhotra,Healthcare,Health Department,Long waiting time at the public health facility,Ward 08 - Residential,High,Resolved,2025-12-08,2025-12-14,6
+GRV-2026-0452,Ananya Rao,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 04 - East,Critical,Resolved,2026-01-26,2026-02-11,16
+GRV-2026-0453,Priya Singh,Street Lighting,Electricity Department,Dark public road creates safety concerns at night,Ward 07 - Industrial,Low,In Progress,2026-10-11,,
+GRV-2026-0454,Arjun Malhotra,Street Lighting,Municipal Corporation,Dark public road creates safety concerns at night,Ward 05 - West,Medium,Rejected,2026-10-20,,
+GRV-2025-0455,Aanya Verma,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 07 - Industrial,High,In Progress,2025-12-12,,
+GRV-2026-0456,Sara Khan,Sanitation,Sanitation Department,Garbage has not been collected for several days,Ward 03 - South,Medium,In Progress,2026-05-16,,
+GRV-2026-0457,Rohan Gupta,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 03 - South,Medium,In Progress,2026-07-18,,
+GRV-2025-0458,Aanya Verma,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 08 - Residential,Medium,In Progress,2025-12-09,,
+GRV-2026-0459,Aarav Sharma,Street Lighting,Electricity Department,Several street lamps are damaged near the park,Ward 03 - South,Medium,Resolved,2026-01-14,2026-01-22,8
+GRV-2026-0460,Rohan Gupta,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 01 - Central,Medium,Pending,2026-01-23,,
+GRV-2026-0461,Rohan Gupta,Public Safety,Public Safety Department,Open manhole creates a serious risk for pedestrians,Ward 07 - Industrial,Medium,Resolved,2026-07-24,2026-08-09,16
+GRV-2025-0462,Ananya Rao,Electricity,Electricity Department,Voltage fluctuations are damaging electrical appliances,Ward 02 - North,Low,In Progress,2025-12-27,,
+GRV-2026-0463,Arjun Malhotra,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 03 - South,Medium,Pending,2026-04-29,,
+GRV-2026-0464,Arjun Malhotra,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 02 - North,High,Resolved,2026-03-13,2026-03-31,18
+GRV-2026-0465,Arjun Malhotra,Street Lighting,Electricity Department,Street light pole is leaning and appears unsafe,Ward 06 - Market,Critical,Resolved,2026-01-07,2026-01-21,14
+GRV-2026-0466,Ishaan Kapoor,Roads & Infrastructure,Municipal Corporation,Road surface is damaged near the residential market,Ward 05 - West,Medium,Resolved,2026-07-17,2026-07-21,4
+GRV-2026-0467,Priya Singh,Street Lighting,Electricity Department,Street lights are not working in the residential lane,Ward 01 - Central,Medium,Resolved,2026-10-01,2026-10-10,9
+GRV-2026-0468,Ishaan Kapoor,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 02 - North,High,Pending,2026-05-03,,
+GRV-2025-0469,Ishaan Kapoor,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 05 - West,High,Pending,2025-12-13,,
+GRV-2026-0470,Arjun Malhotra,Public Transport,Transport Department,Route information displayed at the stop is incorrect,Ward 05 - West,Medium,Resolved,2026-04-14,2026-04-26,12
+GRV-2025-0471,Priya Singh,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 03 - South,High,Resolved,2025-11-15,2025-11-19,4
+GRV-2026-0472,Rohan Gupta,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 01 - Central,High,Resolved,2026-02-24,2026-02-26,2
+GRV-2026-0473,Priya Singh,Water Supply,Water Supply Department,Dirty water is coming from the household water connection,Ward 02 - North,Low,In Progress,2026-03-15,,
+GRV-2026-0474,Rohan Gupta,Roads & Infrastructure,Municipal Corporation,Drain cover is missing near the road intersection,Ward 08 - Residential,Medium,Resolved,2026-04-20,2026-04-22,2
+GRV-2025-0475,Sara Khan,Roads & Infrastructure,Public Works Department,Road surface is damaged near the residential market,Ward 03 - South,Low,In Progress,2025-12-10,,
+GRV-2026-0476,Kabir Mehta,Roads & Infrastructure,Municipal Corporation,Drain cover is missing near the road intersection,Ward 06 - Market,Low,Pending,2026-07-12,,
+GRV-2026-0477,Aanya Verma,Public Transport,Transport Department,Bus service is irregular on the assigned route,Ward 05 - West,High,In Progress,2026-01-16,,
+GRV-2026-0478,Sara Khan,Healthcare,Health Department,Local health centre is short of essential medicines,Ward 05 - West,Medium,Resolved,2026-06-24,2026-07-07,13
+GRV-2026-0479,Aanya Verma,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 05 - West,Medium,Resolved,2026-02-26,2026-03-09,11
+GRV-2026-0480,Meera Joshi,Street Lighting,Municipal Corporation,Street lights are not working in the residential lane,Ward 08 - Residential,High,Resolved,2026-01-27,2026-02-11,15
+GRV-2026-0481,Ananya Rao,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 06 - Market,Critical,Resolved,2026-10-08,2026-10-16,8
+GRV-2026-0482,Ananya Rao,Roads & Infrastructure,Municipal Corporation,Large pothole on the main road causing traffic and accidents,Ward 03 - South,High,Pending,2026-07-08,,
+GRV-2026-0483,Meera Joshi,Street Lighting,Municipal Corporation,Several street lamps are damaged near the park,Ward 04 - East,Medium,Resolved,2026-05-15,2026-05-22,7
+GRV-2026-0484,Sara Khan,Sanitation,Sanitation Department,Blocked public drain is causing waterlogging,Ward 03 - South,Medium,Pending,2026-07-30,,
+GRV-2026-0485,Aarav Sharma,Water Supply,Water Supply Department,No water supply in the locality since yesterday,Ward 08 - Residential,Medium,Rejected,2026-10-02,,
+GRV-2026-0486,Kabir Mehta,Healthcare,Health Department,Ambulance service did not respond promptly,Ward 04 - East,Medium,Resolved,2026-03-04,2026-03-21,17
+GRV-2026-0487,Arjun Malhotra,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 07 - Industrial,Medium,In Progress,2026-02-15,,
+GRV-2026-0488,Aarav Sharma,Electricity,Electricity Department,Frequent power cuts in the residential area,Ward 04 - East,Medium,In Progress,2026-09-11,,
+GRV-2026-0489,Kabir Mehta,Public Transport,Transport Department,Bus stop shelter is damaged and needs repair,Ward 05 - West,Medium,Resolved,2026-05-30,2026-06-17,18
+GRV-2026-0490,Ananya Rao,Street Lighting,Municipal Corporation,Dark public road creates safety concerns at night,Ward 07 - Industrial,Medium,In Progress,2026-05-09,,
+GRV-2026-0491,Priya Singh,Public Safety,Police Department,Street harassment reported near the bus stop,Ward 05 - West,High,Pending,2026-08-11,,
+GRV-2026-0492,Rohan Gupta,Sanitation,Sanitation Department,Dead animal has not been removed from the public area,Ward 01 - Central,Critical,Pending,2026-05-01,,
+GRV-2026-0493,Arjun Malhotra,Electricity,Electricity Department,Transformer is making unusual noise and sparks,Ward 08 - Residential,High,Rejected,2026-03-02,,
+GRV-2026-0494,Rohan Gupta,Public Safety,Police Department,Street harassment reported near the bus stop,Ward 04 - East,Low,Pending,2026-01-28,,
+GRV-2025-0495,Ananya Rao,Public Safety,Police Department,Broken traffic signal is creating unsafe road conditions,Ward 05 - West,Medium,In Progress,2025-12-25,,
+GRV-2026-0496,Sara Khan,Healthcare,Health Department,Long waiting time at the public health facility,Ward 03 - South,High,In Progress,2026-04-16,,
+GRV-2026-0497,Meera Joshi,Public Safety,Police Department,Street harassment reported near the bus stop,Ward 07 - Industrial,High,In Progress,2026-05-29,,
+GRV-2025-0498,Ishaan Kapoor,Public Safety,Police Department,Emergency street access is blocked by unauthorized parking,Ward 02 - North,High,Resolved,2025-12-24,2026-01-04,11
+GRV-2026-0499,Kabir Mehta,Water Supply,Water Supply Department,Low water pressure reported across the residential block,Ward 05 - West,High,In Progress,2026-05-21,,
+GRV-2026-0500,Rohan Gupta,Street Lighting,Municipal Corporation,Street lights are not working in the residential lane,Ward 03 - South,Medium,Rejected,2026-01-15,,
